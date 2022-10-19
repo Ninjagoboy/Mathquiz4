@@ -1,0 +1,12 @@
+body{background-image:url('Razorwark.jpg')}
+.login_div{
+  background:whitesmoke ;
+  padding: 10px;
+  float: none;
+  border-radius: 15px;
+}
+h1{
+  color: whitesmoke;
+  font-size: 23px;
+  
+}
